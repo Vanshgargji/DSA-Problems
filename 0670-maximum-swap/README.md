@@ -25,3 +25,8 @@
 <ul>
 	<li><code>0 &lt;= num &lt;= 10<sup>8</sup></code></li>
 </ul>
+
+steps:
+1. convert num to string
+2. store the last occurence of each digit
+3. to get the largest number we want to swap the smaller digit from left with a largest possible digit (than this digit) from right;
