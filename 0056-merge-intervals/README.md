@@ -29,6 +29,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
+
+<img width="962" height="818" alt="image" src="https://github.com/user-attachments/assets/0de70e1c-71c4-4e14-9289-7dcc7fdae583" />
+
 	<li><code>1 &lt;= intervals.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>intervals[i].length == 2</code></li>
 	<li><code>0 &lt;= start<sub>i</sub> &lt;= end<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
