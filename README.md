@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Vanshgargji/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vanshgargji/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vanshgargji/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
