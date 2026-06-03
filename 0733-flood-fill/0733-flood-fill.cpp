@@ -6,10 +6,15 @@ public:
         vis[row][col] = 1;
         image2[row][col] = color;
 
-        if(col-1 >= 0 && image2[row][col-1] == val && !vis[row][col-1]) dfs(row, col-1, image2, vis, color, val);
-        if(row-1 >= 0 && image2[row-1][col] == val && !vis[row-1][col]) dfs(row-1, col, image2, vis, color, val);
-        if(col+1 < n && image2[row][col+1] == val && !vis[row][col+1]) dfs(row, col+1, image2, vis, color, val);
-        if(row+1 < m && image2[row+1][col] == val && !vis[row+1][col]) dfs(row+1, col, image2, vis, color, val);
+        int drow[] = {0, -1, 0, +1};
+        int dcol[] = {-1, 0, +1, 0};
+
+        for(int i=0; i<4; i++){
+            int nrow = row + drow[i];
+            int ncol = col + dcol[i];
+
+            if(nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && image2[nrow][ncol] == val && !vis[nrow][ncol]) dfs(nrow, ncol, image2, vis, color, val);
+        }
     }
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
