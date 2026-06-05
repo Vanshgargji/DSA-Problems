@@ -2,26 +2,16 @@ class Solution {
 public:
     int n;
 
-    bool check(int start, vector<int> &color, vector<vector<int>> &graph){
-        
-        queue<int> q;
-        color[start] = 0;
-        q.push(start);
+    bool dfs(int node, vector<int> &color, vector<vector<int>> &graph){
 
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-
-            for(auto &it:graph[node]){
-                if(color[it] == -1){
-                    color[it] = (color[node] == 0 ? 1 : 0);
-                    q.push(it);
-                }
-                else if(color[it] == color[node]){
-                    return false;
-                }
+        for(auto &it:graph[node]){
+            if(color[it] == -1){
+                color[it] = !color[node];
+                if(dfs(it, color, graph) == false) return false;
             }
+            else if(color[node] == color[it]) return false;
         }
+  
         return true;
     }
 
@@ -29,9 +19,12 @@ public:
         n = graph.size();
         vector<int> color(n, -1);
 
+        color[0] = 0;
+        if(dfs(0, color, graph) == false) return false;
+
         for(int i=0; i<n; i++){
             if(color[i] == -1){
-                if(check(i, color, graph) == false) return false;
+                if(dfs(i, color, graph) == false) return false;
             } 
         }
         
