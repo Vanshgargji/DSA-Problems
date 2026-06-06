@@ -1,38 +1,43 @@
 class Solution {
 public:
-    int n;
-
-    bool dfs(int node, vector<int> &vis, vector<int> &pathvis, vector<int> &ans, vector<vector<int>> &graph){
-        vis[node] = 1;
-        pathvis[node] = 1;
-
-        for(auto &it : graph[node]){
-            if(!vis[it]){
-                if(dfs(it, vis, pathvis, ans, graph) == true) return true;
-            }
-            else if(vis[it] && pathvis[it]) return true;
-        }
-
-        pathvis[node] = 0;
-        ans.push_back(node);
-
-        return false;
-    }
-
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        n = graph.size();
-
-        vector<int> vis(n, 0);
-        vector<int> pathvis(n, 0);
-        vector<int> ans;
+        int n = graph.size();
+        vector<vector<int>> graphrev(n);
 
         for(int i=0; i<n; i++){
-            if(!vis[i]){
-                dfs(i, vis, pathvis, ans, graph);
+            for(auto &it : graph[i]){
+                graphrev[it].push_back(i);
+            }
+        }
+
+        vector<int> indegree(n, 0);
+        queue<int> q;
+
+        for(int i=0; i<n; i++){
+            for(auto &it : graphrev[i]){
+                indegree[it]++;
+            }
+        }
+
+        for(int i=0; i<n; i++){
+            if(indegree[i] == 0) q.push(i);
+        }
+
+        vector<int> ans;
+
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            ans.push_back(node);
+
+            for(auto &it : graphrev[node]){
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
             }
         }
         
         sort(ans.begin(), ans.end());
+
         return ans;
     }
 };
