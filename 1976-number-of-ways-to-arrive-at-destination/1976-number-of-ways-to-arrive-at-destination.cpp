@@ -34,8 +34,6 @@ public:
             auto [dis, node] = pq.top();
             pq.pop();
 
-            if(dis > dist[node]) continue;
-
             for(auto &it : graph[node]){
 
                 int adjNode = it.first;
