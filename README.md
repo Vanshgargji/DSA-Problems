@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2906-construct-product-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2906-construct-product-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/2906-construct-product-matrix) |
 ## Prefix Sum
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Vanshgargji/DSA-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
