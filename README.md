@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vanshgargji/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vanshgargji/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Vanshgargji/DSA-Problems/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Vanshgargji/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Vanshgargji/DSA-Problems/tree/master/0056-merge-intervals) |
+| [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vanshgargji/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vanshgargji/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vanshgargji/DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vanshgargji/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vanshgargji/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vanshgargji/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vanshgargji/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -143,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vanshgargji/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vanshgargji/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vanshgargji/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Vanshgargji/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vanshgargji/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
