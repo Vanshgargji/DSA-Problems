@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vanshgargji/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vanshgargji/DSA-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vanshgargji/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vanshgargji/DSA-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Vanshgargji/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vanshgargji/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vanshgargji/DSA-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vanshgargji/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vanshgargji/DSA-Problems/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vanshgargji/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vanshgargji/DSA-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vanshgargji/DSA-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
