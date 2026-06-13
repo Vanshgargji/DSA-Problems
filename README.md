@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vanshgargji/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vanshgargji/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vanshgargji/DSA-Problems/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vanshgargji/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vanshgargji/DSA-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vanshgargji/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vanshgargji/DSA-Problems/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vanshgargji/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Vanshgargji/DSA-Problems/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vanshgargji/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vanshgargji/DSA-Problems/tree/master/1631-path-with-minimum-effort) |
