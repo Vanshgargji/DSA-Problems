@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
+| [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Simulation
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Vanshgargji/DSA-Problems/tree/master/0670-maximum-swap) |
+| [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vanshgargji/DSA-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/Vanshgargji/DSA-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -246,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
