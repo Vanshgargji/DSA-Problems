@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vanshgargji/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vanshgargji/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Simulation
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vanshgargji/DSA-Problems/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Vanshgargji/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Vanshgargji/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 ## String
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Vanshgargji/DSA-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -229,4 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
