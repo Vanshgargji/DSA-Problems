@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Vanshgargji/DSA-Problems/tree/master/0038-count-and-say) |
 | [0126-word-ladder-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vanshgargji/DSA-Problems/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
