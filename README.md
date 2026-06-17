@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vanshgargji/DSA-Problems/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
+| [0846-hand-of-straights](https://github.com/Vanshgargji/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/Vanshgargji/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/Vanshgargji/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vanshgargji/DSA-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Vanshgargji/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Vanshgargji/DSA-Problems/tree/master/0670-maximum-swap) |
+| [0846-hand-of-straights](https://github.com/Vanshgargji/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Vanshgargji/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/Vanshgargji/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vanshgargji/DSA-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
