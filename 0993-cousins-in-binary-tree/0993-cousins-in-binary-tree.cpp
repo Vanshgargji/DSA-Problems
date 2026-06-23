@@ -1,43 +1,38 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
- * };
- */
 class Solution {
 public:
-    int xdepth, ydepth, xparent, yparent;
-
-    void depth(TreeNode* root, int x, int y, int dep, int par_val) {
-        if (root == NULL)
-            return;
-        if (root->val == x) {
-            xdepth = dep;
-            xparent = par_val;
-            return;
-        }
-        if (root->val == y) {
-            ydepth = dep;
-            yparent = par_val;
-            return;
-        }
-        depth(root->left, x, y, dep + 1, root->val);
-        depth(root->right, x, y, dep + 1, root->val);
-    }
-
     bool isCousins(TreeNode* root, int x, int y) {
-        if (root->val == x || root->val == y)
-            return false;
-        depth(root, x, y, 0, 0);
+        queue<pair<TreeNode*, TreeNode*>> q; // {node, parent}
+        q.push({root, nullptr});
 
-        if (xdepth == ydepth && xparent != yparent)
-            return true;
+        while(!q.empty()) {
+            int size = q.size();
+
+            TreeNode* xParent = nullptr;
+            TreeNode* yParent = nullptr;
+
+            for(int i = 0; i < size; i++) {
+                auto [node, parent] = q.front();
+                q.pop();
+
+                if(node->val == x) xParent = parent;
+                if(node->val == y) yParent = parent;
+
+                if(node->left)
+                    q.push({node->left, node});
+
+                if(node->right)
+                    q.push({node->right, node});
+            }
+
+            // Found both at the same level
+            if(xParent && yParent)
+                return xParent != yParent;
+
+            // Found exactly one at this level
+            if(xParent || yParent)
+                return false;
+        }
+
         return false;
     }
 };
