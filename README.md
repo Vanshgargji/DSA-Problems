@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/Vanshgargji/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vanshgargji/DSA-Problems/tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Vanshgargji/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vanshgargji/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vanshgargji/DSA-Problems/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Vanshgargji/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
