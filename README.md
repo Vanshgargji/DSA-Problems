@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Vanshgargji/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vanshgargji/DSA-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Vanshgargji/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Vanshgargji/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vanshgargji/DSA-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Vanshgargji/DSA-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vanshgargji/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vanshgargji/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vanshgargji/DSA-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Vanshgargji/DSA-Problems/tree/master/0827-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vanshgargji/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vanshgargji/DSA-Problems/tree/master/1020-number-of-enclaves) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vanshgargji/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vanshgargji/DSA-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -360,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vanshgargji/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vanshgargji/DSA-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Data Stream
 |  |
