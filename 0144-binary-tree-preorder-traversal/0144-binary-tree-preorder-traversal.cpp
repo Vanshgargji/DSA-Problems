@@ -12,23 +12,35 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        if(!root) return {};
+        // TC O(n)        SC O(1)
+        vector<int> preorder;
+        TreeNode *cur = root;
 
-        stack<TreeNode *> st;
-        st.push(root);
+        while(cur){
+            preorder.push_back(cur->val);
 
-        vector<int> ans;
+            if(!cur->left){
+                cur = cur->right;
+            }
+            else{
+                TreeNode *prev = cur->left;
+                while(prev->right && prev->right != cur){
+                    prev = prev->right;
+                }
 
-        while(!st.empty()){
-            TreeNode *node = st.top();
-            st.pop();
-
-            ans.push_back(node->val);
-
-            if(node->right) st.push(node->right);
-            if(node->left) st.push(node->left);
+                if(prev->right == NULL){
+                    prev->right = cur;
+                    cur = cur->left;
+                }
+                else{
+                    preorder.pop_back();
+                    prev->right = NULL;
+                    cur = cur->right;
+                }
+            }
         }
         
-        return ans;
+        return preorder;
+        
     }
 };
