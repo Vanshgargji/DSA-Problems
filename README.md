@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Vanshgargji/DSA-Problems/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vanshgargji/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Vanshgargji/DSA-Problems/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vanshgargji/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
 |  |
