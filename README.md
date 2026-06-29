@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Vanshgargji/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Vanshgargji/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vanshgargji/DSA-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Vanshgargji/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Vanshgargji/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Vanshgargji/DSA-Problems/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vanshgargji/DSA-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vanshgargji/DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Vanshgargji/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vanshgargji/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vanshgargji/DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Vanshgargji/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vanshgargji/DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vanshgargji/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vanshgargji/DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Vanshgargji/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vanshgargji/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vanshgargji/DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -446,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Vanshgargji/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
