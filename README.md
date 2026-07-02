@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vanshgargji/DSA-Problems/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Vanshgargji/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Vanshgargji/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Vanshgargji/DSA-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vanshgargji/DSA-Problems/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Vanshgargji/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Vanshgargji/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Vanshgargji/DSA-Problems/tree/master/0355-design-twitter) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vanshgargji/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Vanshgargji/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vanshgargji/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vanshgargji/DSA-Problems/tree/master/0547-number-of-provinces) |
