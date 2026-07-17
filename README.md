@@ -546,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vanshgargji/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Vanshgargji/DSA-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
