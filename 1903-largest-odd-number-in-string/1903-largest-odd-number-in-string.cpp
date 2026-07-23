@@ -7,10 +7,6 @@ public:
             i--;
         }
 
-        string ans = "";
-        for(int start = 0; start <= i; start++){
-            ans += num[start];
-        }
-        return ans;
+        return num.substr(0, i+1);
     }
 };
