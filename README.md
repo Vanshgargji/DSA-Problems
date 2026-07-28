@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vanshgargji/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vanshgargji/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vanshgargji/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Vanshgargji/DSA-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vanshgargji/DSA-Problems/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vanshgargji/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Vanshgargji/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshgargji/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Vanshgargji/DSA-Problems/tree/master/0152-maximum-product-subarray) |
