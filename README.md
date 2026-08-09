@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Vanshgargji/DSA-Problems/tree/master/0493-reverse-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vanshgargji/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vanshgargji/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Vanshgargji/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vanshgargji/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vanshgargji/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0328-odd-even-linked-list) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Vanshgargji/DSA-Problems/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
