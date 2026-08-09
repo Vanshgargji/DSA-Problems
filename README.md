@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/Vanshgargji/DSA-Problems/tree/master/0355-design-twitter) |
 ## Design
@@ -564,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vanshgargji/DSA-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Vanshgargji/DSA-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vanshgargji/DSA-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
