@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vanshgargji/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Vanshgargji/DSA-Problems/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/Vanshgargji/DSA-Problems/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vanshgargji/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vanshgargji/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Vanshgargji/DSA-Problems/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
