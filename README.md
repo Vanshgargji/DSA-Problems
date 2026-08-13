@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vanshgargji/DSA-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vanshgargji/DSA-Problems/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/Vanshgargji/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Vanshgargji/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vanshgargji/DSA-Problems/tree/master/0057-insert-interval) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vanshgargji/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Vanshgargji/DSA-Problems/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/Vanshgargji/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [1631-path-with-minimum-effort](https://github.com/Vanshgargji/DSA-Problems/tree/master/1631-path-with-minimum-effort) |
