@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshgargji/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Vanshgargji/DSA-Problems/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vanshgargji/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Vanshgargji/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Vanshgargji/DSA-Problems/tree/master/0136-single-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Vanshgargji/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Vanshgargji/DSA-Problems/tree/master/0670-maximum-swap) |
 | [0846-hand-of-straights](https://github.com/Vanshgargji/DSA-Problems/tree/master/0846-hand-of-straights) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vanshgargji/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Vanshgargji/DSA-Problems/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshgargji/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Vanshgargji/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0542-01-matrix) |
