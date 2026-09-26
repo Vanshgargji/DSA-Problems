@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Vanshgargji/DSA-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Vanshgargji/DSA-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vanshgargji/DSA-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vanshgargji/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vanshgargji/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vanshgargji/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vanshgargji/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vanshgargji/DSA-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vanshgargji/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vanshgargji/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vanshgargji/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Vanshgargji/DSA-Problems/tree/master/1392-longest-happy-prefix) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vanshgargji/DSA-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
