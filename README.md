@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vanshgargji/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Vanshgargji/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Vanshgargji/DSA-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vanshgargji/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vanshgargji/DSA-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Vanshgargji/DSA-Problems/tree/master/0066-plus-one) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vanshgargji/DSA-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Vanshgargji/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Vanshgargji/DSA-Problems/tree/master/0670-maximum-swap) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vanshgargji/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Vanshgargji/DSA-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Vanshgargji/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshgargji/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshgargji/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
