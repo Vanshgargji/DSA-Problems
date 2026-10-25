@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Vanshgargji/DSA-Problems/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Vanshgargji/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Vanshgargji/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vanshgargji/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vanshgargji/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vanshgargji/DSA-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vanshgargji/DSA-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2409-count-days-spent-together](https://github.com/Vanshgargji/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vanshgargji/DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vanshgargji/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
